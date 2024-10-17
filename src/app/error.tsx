@@ -1,4 +1,4 @@
-'use client';
+&rsquo;use client&rsquo;;
 
 export default function ErrorPage(){
     return(
