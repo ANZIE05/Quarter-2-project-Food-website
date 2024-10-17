@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    background-color: rgba(10, 10, 53, 0.801);
+}
+
+h1 {
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', Arial, ;
+    text-align: center;
+    color: rgb(223, 223, 5);
+}
+
+p {
+    font-size:larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: left;
+
+}
+
+h6,h2,address {
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+}
+
+.container  {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+
+
+fieldset {
+    border: 2px solid rgba(39, 36, 36, 0.432);
+    border-radius: 8px;
+    padding: 20px;
+ 
+   
+}
+
+label {
+    display: block;
+    color: black;
+    text-align: left;
+
+}
+
+input,textarea {
+    padding: 8px;
+    width: calc(100% - 1px);
+    border: 1px solid rgb(7, 7, 7);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button  {
+    margin-top: 8px;
+    padding: 10px;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family:Georgia;
+    width: 150px;
+    font-size: large;
+    
+}
+
+button:hover   {
+    background-color: #03a727be;
+}
