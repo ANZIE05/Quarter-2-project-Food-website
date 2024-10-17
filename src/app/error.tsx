@@ -2,6 +2,8 @@
 
 export default function ErrorPage(){
     return(
-        <div>Error</div>
-    )
-};
+        <div>
+            <h1>An Error Occurred</h1>
+        </div>
+    );
+}
