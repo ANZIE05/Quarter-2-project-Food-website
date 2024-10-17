@@ -5,5 +5,5 @@ export default function ErrorPage(){
         <div>
             <h1>An Error Occurred</h1>
         </div>
-    )
-};
+    );
+}
