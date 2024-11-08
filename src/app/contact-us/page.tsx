@@ -30,7 +30,7 @@ export default function ContactUsPage() {
         <p style={{textAlign: 'center',fontSize: '40px', marginTop: '18%', fontFamily: 'serif' }}> Submit your feedback <br/>here </p>
 
         <center>
-         <Link href="/contact-us/feedback"> 
+         <Link href="contact-us/feedback"> 
            <button style={{fontSize:'30px', fontFamily:'sans-serif', color: 'yellow'}} className="rounded-xl hover:bg-black"><u>Feedback</u></button>   
         </Link>
         </center>
