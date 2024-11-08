@@ -15,7 +15,7 @@ export default async function AboutPage() {
       <div className="flex flex-col md:flex-row text-justify items-center md:items-start space-y-6 md:space-y-0 md:space-x-6 lg:space-x-8">
         <p className="mx-auto md:ml-7 md:w-1/2 text-sm md:text-base lg:text-lg leading-relaxed">
           Welcome to Food Lover, where every dish is made with passion and a love for flavors! Here, I am showing you a collection of home-cooked meals. Each recipe is a blend of creativity and tradition, perfect for anyone who enjoys good food.<br/><br/>
-          Cooking is not just a hobby for me, it's a way of life. Every meal on Food Lover reflects my personal touch and attention to detail, making it a delightful experience for your taste buds. From comforting classics to vibrant and exciting flavors, I pour my heart into each dish.<br/><br/>
+          Cooking is not just a hobby for me, it is a way of life. Every meal on Food Lover reflects my personal touch and attention to detail, making it a delightful experience for your taste buds. From comforting classics to vibrant and exciting flavors, I pour my heart into each dish.<br/><br/>
           Hey everyone, enjoy and celebrate the joy of homemade food and the simple pleasures of cooking with love.
         </p>
 
